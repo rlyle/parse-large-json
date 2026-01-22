@@ -1,0 +1,28 @@
+{
+  "name": "parse-large-json",
+  "version": "1.0.0",
+  "description": "A package for parsing JSON data that is larger then the string limit.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rlyle/parse-large-json.git"
+  },
+  "keywords": [
+    "JSON",
+    "parse",
+    "large",
+    "nodejs"
+  ],
+  "author": "Richard Lyle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rlyle/parse-large-json/issues"
+  },
+  "homepage": "https://github.com/rlyle/parse-large-json#readme",
+  "dependencies": {
+    "lodash": "^4.17.23"
+  }
+}
