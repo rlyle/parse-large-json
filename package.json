@@ -1,6 +1,6 @@
 {
     "name": "parse-huge-json",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A package for parsing JSON data that is larger then the 512MB string limit of javascript.",
     "main": "index.js",
     "scripts": {
